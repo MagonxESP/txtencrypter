@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\daw\m3 - programacion\cifrar_descifrar_ficheros_demo\cifrar_descifrar_ficheros_demo\source.cpp(22): warning C4477: 'scanf_s' : la cadena de formato '%i' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'int'
+d:\daw\m3 - programacion\cifrar_descifrar_ficheros_demo\cifrar_descifrar_ficheros_demo\source.cpp(44): warning C4101: 'caracter': variable local sin referencia
+d:\daw\m3 - programacion\cifrar_descifrar_ficheros_demo\cifrar_descifrar_ficheros_demo\source.cpp(162): warning C4477: 'scanf' : la cadena de formato '%i' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'int'
+d:\daw\m3 - programacion\cifrar_descifrar_ficheros_demo\cifrar_descifrar_ficheros_demo\source.cpp(91): warning C4101: 'valorLlave': variable local sin referencia
+  cifrar_descifrar_ficheros_demo.vcxproj -> D:\DAW\M3 - Programacion\cifrar_descifrar_ficheros_demo\Debug\cifrar_descifrar_ficheros_demo.exe
+  cifrar_descifrar_ficheros_demo.vcxproj -> D:\DAW\M3 - Programacion\cifrar_descifrar_ficheros_demo\Debug\cifrar_descifrar_ficheros_demo.pdb (Partial PDB)
